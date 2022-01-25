@@ -1,0 +1,13 @@
+Symfony
+    Composer : Para instalar librerías y realizar operaciones
+        $ composer require LIBRERIA
+    -> composer create-project Symfony/template
+
+    Twig: Librería para hacer templates de html
+
+    Doctrine: Administrador de base de datos
+        orm: Queries a base de datos
+
+$ php bin/console : Ejecuta scripts de php
+
+Iniciar servidor:   $ Symfony server:start
